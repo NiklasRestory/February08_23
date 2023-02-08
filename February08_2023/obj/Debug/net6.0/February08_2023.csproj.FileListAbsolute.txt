@@ -1,0 +1,15 @@
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\February08_2023.csproj.AssemblyReference.cache
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\February08_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\February08_2023.AssemblyInfoInputs.cache
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\February08_2023.AssemblyInfo.cs
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\February08_2023.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\February08_2023\February08_2023\bin\Debug\net6.0\February08_2023.exe
+C:\Users\nikla\source\repos\February08_2023\February08_2023\bin\Debug\net6.0\February08_2023.deps.json
+C:\Users\nikla\source\repos\February08_2023\February08_2023\bin\Debug\net6.0\February08_2023.runtimeconfig.json
+C:\Users\nikla\source\repos\February08_2023\February08_2023\bin\Debug\net6.0\February08_2023.dll
+C:\Users\nikla\source\repos\February08_2023\February08_2023\bin\Debug\net6.0\February08_2023.pdb
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\February08_2023.dll
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\refint\February08_2023.dll
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\February08_2023.pdb
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\February08_2023.genruntimeconfig.cache
+C:\Users\nikla\source\repos\February08_2023\February08_2023\obj\Debug\net6.0\ref\February08_2023.dll
